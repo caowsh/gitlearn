@@ -1,3 +1,4 @@
 Git is distributed a version control system.
 Git is free software distributed under GPL.
-git tracks changes.
+Git tracks changes of files.
+Creating a branch is quick.
